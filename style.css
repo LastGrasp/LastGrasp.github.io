@@ -25,7 +25,9 @@ h4 {
 table {
   border:;
   border-collapse:;
+  width:50%;
   align-text:center;
+  align:center;
 }
 
 th {
