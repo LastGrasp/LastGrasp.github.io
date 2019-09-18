@@ -1,7 +1,38 @@
-p {font-size:16px;}
-h1 {font-size:50px;}
-h2 {font-size:30px;}
-h3 {font-size:24px;}
-h4 {font-size:18px;}
-body {text-align:center;}
-table, th, td {border:; border-collapse:;}
+body {
+  text-align:center;
+}
+
+p {
+  font-size:16px;
+}
+
+h1 {
+  font-size:50px;
+}
+
+h2 {
+  font-size:30px;
+}
+
+h3 {
+  font-size:24px;
+}
+
+h4 {
+  font-size:18px;
+}
+
+table {
+  border:;
+  border-collapse:;
+}
+
+th {
+  border:;
+  border-collapse:;
+}
+
+td {
+  border:;
+  border-collapse:;
+}
